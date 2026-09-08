@@ -1,89 +1,1070 @@
 [
   {
-    "id": "documentos",
-    "title": "Documentos",
+    "id": "tienda",
+    "title": "Tienda y parcela",
     "items": [
       {
-        "id": "documentos-1",
-        "label": "DNI o pasaporte"
+        "id": "prep-tienda-1",
+        "label": "Tienda Decathlon Arpenaz 5.2 Fresh & Black",
+        "group": ""
       },
       {
-        "id": "documentos-2",
-        "label": "Carnet de conducir"
+        "id": "prep-tienda-2",
+        "label": "Piquetas",
+        "group": ""
       },
       {
-        "id": "documentos-3",
-        "label": "Contrato de alquiler"
+        "id": "prep-tienda-3",
+        "label": "Martillo para piquetas",
+        "group": ""
       },
       {
-        "id": "documentos-4",
-        "label": "Seguro y asistencia"
+        "id": "prep-tienda-4",
+        "label": "Vientos/cuerdas",
+        "group": ""
+      },
+      {
+        "id": "prep-tienda-5",
+        "label": "Lona para debajo de la tienda",
+        "group": ""
+      },
+      {
+        "id": "prep-tienda-6",
+        "label": "Lona negra de suelo",
+        "group": ""
+      },
+      {
+        "id": "prep-tienda-7",
+        "label": "Avance / techo adicional",
+        "group": ""
+      },
+      {
+        "id": "prep-tienda-8",
+        "label": "Alfombra o suelo para zona común",
+        "group": ""
+      },
+      {
+        "id": "prep-tienda-9",
+        "label": "Mesa",
+        "group": ""
+      },
+      {
+        "id": "prep-tienda-10",
+        "label": "Sillas",
+        "group": ""
+      },
+      {
+        "id": "prep-tienda-11",
+        "label": "Luz exterior",
+        "group": ""
+      },
+      {
+        "id": "prep-tienda-12",
+        "label": "Linternas",
+        "group": ""
+      },
+      {
+        "id": "prep-tienda-13",
+        "label": "Frontal",
+        "group": ""
+      },
+      {
+        "id": "prep-tienda-14",
+        "label": "Cuerda",
+        "group": ""
+      },
+      {
+        "id": "prep-tienda-15",
+        "label": "Pinzas",
+        "group": ""
+      },
+      {
+        "id": "prep-tienda-16",
+        "label": "Bolsas de basura",
+        "group": ""
+      }
+    ]
+  },
+  {
+    "id": "dormir",
+    "title": "Dormir",
+    "items": [
+      {
+        "id": "prep-dormir-1",
+        "label": "Colchones Decathlon Ultim Comfort",
+        "group": ""
+      },
+      {
+        "id": "prep-dormir-2",
+        "label": "Colchón Intex alto",
+        "group": ""
+      },
+      {
+        "id": "prep-dormir-3",
+        "label": "Inflador",
+        "group": ""
+      },
+      {
+        "id": "prep-dormir-4",
+        "label": "Sábanas",
+        "group": ""
+      },
+      {
+        "id": "prep-dormir-5",
+        "label": "Almohadas",
+        "group": ""
+      },
+      {
+        "id": "prep-dormir-6",
+        "label": "Mantas",
+        "group": ""
+      },
+      {
+        "id": "prep-dormir-7",
+        "label": "Sacos de dormir de 20 °C",
+        "group": ""
+      },
+      {
+        "id": "prep-dormir-8",
+        "label": "Saco Decathlon MT900 0 °C",
+        "group": ""
+      }
+    ]
+  },
+  {
+    "id": "electricidad",
+    "title": "Electricidad",
+    "items": [
+      {
+        "id": "prep-electricidad-1",
+        "label": "Cable eléctrico para camping",
+        "group": ""
+      },
+      {
+        "id": "prep-electricidad-2",
+        "label": "Alargador",
+        "group": ""
+      },
+      {
+        "id": "prep-electricidad-3",
+        "label": "Adaptador camping / CEE si corresponde",
+        "group": ""
+      },
+      {
+        "id": "prep-electricidad-4",
+        "label": "Regleta",
+        "group": ""
+      },
+      {
+        "id": "prep-electricidad-5",
+        "label": "Cargadores móviles",
+        "group": ""
+      },
+      {
+        "id": "prep-electricidad-6",
+        "label": "Cargador reloj",
+        "group": ""
+      },
+      {
+        "id": "prep-electricidad-7",
+        "label": "Power bank",
+        "group": ""
+      },
+      {
+        "id": "prep-electricidad-8",
+        "label": "Iluminación",
+        "group": ""
+      },
+      {
+        "id": "prep-electricidad-9",
+        "label": "Nevera eléctrica de camping",
+        "group": ""
+      }
+    ],
+    "notes": "La nevera indica 64 kWh/año en ficha. Uso previsto: conectada durante los días de camping."
+  },
+  {
+    "id": "cocina",
+    "title": "Cocina",
+    "items": [
+      {
+        "id": "prep-cocina-1",
+        "label": "Cocina/hornillo camping",
+        "group": ""
+      },
+      {
+        "id": "prep-cocina-2",
+        "label": "Gas/cartuchos",
+        "group": ""
+      },
+      {
+        "id": "prep-cocina-3",
+        "label": "Encendedor",
+        "group": ""
+      },
+      {
+        "id": "prep-cocina-4",
+        "label": "Olla",
+        "group": ""
+      },
+      {
+        "id": "prep-cocina-5",
+        "label": "Sartén",
+        "group": ""
+      },
+      {
+        "id": "prep-cocina-6",
+        "label": "Plato/bowl",
+        "group": ""
+      },
+      {
+        "id": "prep-cocina-7",
+        "label": "Vasos",
+        "group": ""
+      },
+      {
+        "id": "prep-cocina-8",
+        "label": "Cubiertos",
+        "group": ""
+      },
+      {
+        "id": "prep-cocina-9",
+        "label": "Cuchillo",
+        "group": ""
+      },
+      {
+        "id": "prep-cocina-10",
+        "label": "Tabla de cortar",
+        "group": ""
+      },
+      {
+        "id": "prep-cocina-11",
+        "label": "Espátula/cuchara",
+        "group": ""
+      },
+      {
+        "id": "prep-cocina-12",
+        "label": "Abrelatas",
+        "group": ""
+      },
+      {
+        "id": "prep-cocina-13",
+        "label": "Papel de cocina",
+        "group": ""
+      },
+      {
+        "id": "prep-cocina-14",
+        "label": "Servilletas",
+        "group": ""
+      },
+      {
+        "id": "prep-cocina-15",
+        "label": "Tupper",
+        "group": ""
+      },
+      {
+        "id": "prep-cocina-16",
+        "label": "Bolsas zip",
+        "group": ""
+      },
+      {
+        "id": "prep-cocina-17",
+        "label": "Papel aluminio",
+        "group": ""
+      },
+      {
+        "id": "prep-cocina-18",
+        "label": "Detergente",
+        "group": ""
+      },
+      {
+        "id": "prep-cocina-19",
+        "label": "Esponja",
+        "group": ""
+      },
+      {
+        "id": "prep-cocina-20",
+        "label": "Trapo",
+        "group": ""
+      },
+      {
+        "id": "prep-cocina-21",
+        "label": "Barreño/recipiente para lavar",
+        "group": ""
+      },
+      {
+        "id": "prep-cocina-22",
+        "label": "Bolsas de basura",
+        "group": ""
+      }
+    ]
+  },
+  {
+    "id": "comida",
+    "title": "Comida / despensa",
+    "items": [
+      {
+        "id": "prep-comida-1",
+        "label": "Agua",
+        "group": "Básicos"
+      },
+      {
+        "id": "prep-comida-2",
+        "label": "Café / mate",
+        "group": "Básicos"
+      },
+      {
+        "id": "prep-comida-3",
+        "label": "Leche",
+        "group": "Básicos"
+      },
+      {
+        "id": "prep-comida-4",
+        "label": "Desayuno",
+        "group": "Básicos"
+      },
+      {
+        "id": "prep-comida-5",
+        "label": "Pan",
+        "group": "Básicos"
+      },
+      {
+        "id": "prep-comida-6",
+        "label": "Snacks",
+        "group": "Básicos"
+      },
+      {
+        "id": "prep-comida-7",
+        "label": "Fruta",
+        "group": "Básicos"
+      },
+      {
+        "id": "prep-comida-8",
+        "label": "Yogur",
+        "group": "Básicos"
+      },
+      {
+        "id": "prep-comida-9",
+        "label": "Queso",
+        "group": "Básicos"
+      },
+      {
+        "id": "prep-comida-10",
+        "label": "Huevos",
+        "group": "Básicos"
+      },
+      {
+        "id": "prep-comida-11",
+        "label": "Proteína/carne",
+        "group": "Básicos"
+      },
+      {
+        "id": "prep-comida-12",
+        "label": "Pasta/arroz",
+        "group": "Básicos"
+      },
+      {
+        "id": "prep-comida-13",
+        "label": "Salsa",
+        "group": "Básicos"
+      },
+      {
+        "id": "prep-comida-14",
+        "label": "Aceite",
+        "group": "Básicos"
+      },
+      {
+        "id": "prep-comida-15",
+        "label": "Sal",
+        "group": "Básicos"
+      },
+      {
+        "id": "prep-comida-16",
+        "label": "Condimentos",
+        "group": "Básicos"
+      },
+      {
+        "id": "prep-comida-17",
+        "label": "Algo dulce",
+        "group": "Básicos"
+      },
+      {
+        "id": "prep-comida-18",
+        "label": "Comida rápida para el primer día",
+        "group": "Básicos"
+      },
+      {
+        "id": "prep-comida-extra0-1",
+        "label": "Agua",
+        "group": "Carretera"
+      },
+      {
+        "id": "prep-comida-extra0-2",
+        "label": "Snacks",
+        "group": "Carretera"
+      },
+      {
+        "id": "prep-comida-extra0-3",
+        "label": "Fruta",
+        "group": "Carretera"
+      },
+      {
+        "id": "prep-comida-extra0-4",
+        "label": "Bocadillos",
+        "group": "Carretera"
+      },
+      {
+        "id": "prep-comida-extra0-5",
+        "label": "Servilletas",
+        "group": "Carretera"
+      },
+      {
+        "id": "prep-comida-extra0-6",
+        "label": "Bolsa para basura",
+        "group": "Carretera"
       }
     ]
   },
   {
     "id": "ropa",
-    "title": "Ropa y calzado",
+    "title": "Ropa",
     "items": [
       {
-        "id": "ropa-1",
-        "label": "Capas de abrigo"
+        "id": "prep-ropa-1",
+        "label": "Ropa interior",
+        "group": "Camping / diario"
       },
       {
-        "id": "ropa-2",
-        "label": "Impermeable"
+        "id": "prep-ropa-2",
+        "label": "Medias",
+        "group": "Camping / diario"
       },
       {
-        "id": "ropa-3",
-        "label": "Calzado cómodo"
+        "id": "prep-ropa-3",
+        "label": "Camisetas",
+        "group": "Camping / diario"
       },
       {
-        "id": "ropa-4",
-        "label": "Bañador y toalla"
+        "id": "prep-ropa-4",
+        "label": "Pantalones",
+        "group": "Camping / diario"
+      },
+      {
+        "id": "prep-ropa-5",
+        "label": "Ropa cómoda de camping",
+        "group": "Camping / diario"
+      },
+      {
+        "id": "prep-ropa-6",
+        "label": "Pijama",
+        "group": "Camping / diario"
+      },
+      {
+        "id": "prep-ropa-7",
+        "label": "Polar",
+        "group": "Camping / diario"
+      },
+      {
+        "id": "prep-ropa-8",
+        "label": "Sudadera",
+        "group": "Camping / diario"
+      },
+      {
+        "id": "prep-ropa-9",
+        "label": "Chaqueta",
+        "group": "Camping / diario"
+      },
+      {
+        "id": "prep-ropa-10",
+        "label": "Impermeable/chubasquero",
+        "group": "Camping / diario"
+      },
+      {
+        "id": "prep-ropa-11",
+        "label": "Calzado cómodo",
+        "group": "Camping / diario"
+      },
+      {
+        "id": "prep-ropa-12",
+        "label": "Chanclas",
+        "group": "Camping / diario"
+      },
+      {
+        "id": "prep-ropa-13",
+        "label": "Zapatillas",
+        "group": "Camping / diario"
+      },
+      {
+        "id": "prep-ropa-extra0-1",
+        "label": "Calzado trekking",
+        "group": "Trekking"
+      },
+      {
+        "id": "prep-ropa-extra0-2",
+        "label": "Medias trekking",
+        "group": "Trekking"
+      },
+      {
+        "id": "prep-ropa-extra0-3",
+        "label": "Pantalón trekking",
+        "group": "Trekking"
+      },
+      {
+        "id": "prep-ropa-extra0-4",
+        "label": "Camiseta técnica",
+        "group": "Trekking"
+      },
+      {
+        "id": "prep-ropa-extra0-5",
+        "label": "Polar",
+        "group": "Trekking"
+      },
+      {
+        "id": "prep-ropa-extra0-6",
+        "label": "Impermeable",
+        "group": "Trekking"
+      },
+      {
+        "id": "prep-ropa-extra0-7",
+        "label": "Mochila",
+        "group": "Trekking"
+      },
+      {
+        "id": "prep-ropa-extra0-8",
+        "label": "Gorra",
+        "group": "Trekking"
+      },
+      {
+        "id": "prep-ropa-extra0-9",
+        "label": "Gafas de sol",
+        "group": "Trekking"
       }
     ]
   },
   {
-    "id": "cocina",
-    "title": "Cocina y despensa",
+    "id": "higiene",
+    "title": "Higiene",
     "items": [
       {
-        "id": "cocina-1",
-        "label": "Agua potable"
+        "id": "prep-higiene-1",
+        "label": "Cepillo de dientes",
+        "group": ""
       },
       {
-        "id": "cocina-2",
-        "label": "Café y desayuno"
+        "id": "prep-higiene-2",
+        "label": "Pasta dental",
+        "group": ""
       },
       {
-        "id": "cocina-3",
-        "label": "Comida para los primeros días"
+        "id": "prep-higiene-3",
+        "label": "Desodorante",
+        "group": ""
       },
       {
-        "id": "cocina-4",
-        "label": "Utensilios y bolsas de basura"
+        "id": "prep-higiene-4",
+        "label": "Shampoo",
+        "group": ""
+      },
+      {
+        "id": "prep-higiene-5",
+        "label": "Acondicionador",
+        "group": ""
+      },
+      {
+        "id": "prep-higiene-6",
+        "label": "Gel de ducha",
+        "group": ""
+      },
+      {
+        "id": "prep-higiene-7",
+        "label": "Crema hidratante",
+        "group": ""
+      },
+      {
+        "id": "prep-higiene-8",
+        "label": "Skincare",
+        "group": ""
+      },
+      {
+        "id": "prep-higiene-9",
+        "label": "Protector solar",
+        "group": ""
+      },
+      {
+        "id": "prep-higiene-10",
+        "label": "Toalla",
+        "group": ""
+      },
+      {
+        "id": "prep-higiene-11",
+        "label": "Toalla de ducha",
+        "group": ""
+      },
+      {
+        "id": "prep-higiene-12",
+        "label": "Papel higiénico",
+        "group": ""
+      },
+      {
+        "id": "prep-higiene-13",
+        "label": "Pañuelos",
+        "group": ""
+      },
+      {
+        "id": "prep-higiene-14",
+        "label": "Toallitas",
+        "group": ""
+      },
+      {
+        "id": "prep-higiene-15",
+        "label": "Bolsa para ropa sucia",
+        "group": ""
       }
     ]
   },
   {
-    "id": "van",
-    "title": "Van y descanso",
+    "id": "botiquin",
+    "title": "Botiquín",
     "items": [
       {
-        "id": "van-1",
-        "label": "Ropa de cama"
+        "id": "prep-botiquin-1",
+        "label": "Medicación personal",
+        "group": ""
       },
       {
-        "id": "van-2",
-        "label": "Linterna y pilas"
+        "id": "prep-botiquin-2",
+        "label": "Analgésico",
+        "group": ""
       },
       {
-        "id": "van-3",
-        "label": "Cables y cargadores"
+        "id": "prep-botiquin-3",
+        "label": "Antiinflamatorio si corresponde",
+        "group": ""
       },
       {
-        "id": "van-4",
-        "label": "Revisar el equipamiento de la van"
+        "id": "prep-botiquin-4",
+        "label": "Tiritas",
+        "group": ""
+      },
+      {
+        "id": "prep-botiquin-5",
+        "label": "Desinfectante",
+        "group": ""
+      },
+      {
+        "id": "prep-botiquin-6",
+        "label": "Gasas",
+        "group": ""
+      },
+      {
+        "id": "prep-botiquin-7",
+        "label": "Venda",
+        "group": ""
+      },
+      {
+        "id": "prep-botiquin-8",
+        "label": "Repelente",
+        "group": ""
+      },
+      {
+        "id": "prep-botiquin-9",
+        "label": "After-bite",
+        "group": ""
+      },
+      {
+        "id": "prep-botiquin-10",
+        "label": "Protector solar",
+        "group": ""
+      },
+      {
+        "id": "prep-botiquin-11",
+        "label": "Medicación habitual suficiente para todo el viaje",
+        "group": ""
+      }
+    ]
+  },
+  {
+    "id": "documentacion",
+    "title": "Documentación",
+    "items": [
+      {
+        "id": "prep-documentacion-1",
+        "label": "DNI/pasaporte",
+        "group": ""
+      },
+      {
+        "id": "prep-documentacion-2",
+        "label": "Carnet de conducir",
+        "group": ""
+      },
+      {
+        "id": "prep-documentacion-3",
+        "label": "Documentación del coche",
+        "group": ""
+      },
+      {
+        "id": "prep-documentacion-4",
+        "label": "Seguro del coche",
+        "group": ""
+      },
+      {
+        "id": "prep-documentacion-5",
+        "label": "Tarjeta sanitaria",
+        "group": ""
+      },
+      {
+        "id": "prep-documentacion-6",
+        "label": "Tarjeta sanitaria europea",
+        "group": ""
+      },
+      {
+        "id": "prep-documentacion-7",
+        "label": "Tarjetas bancarias",
+        "group": ""
+      },
+      {
+        "id": "prep-documentacion-8",
+        "label": "Algo de efectivo",
+        "group": ""
+      },
+      {
+        "id": "prep-documentacion-9",
+        "label": "Reservas alojamientos",
+        "group": ""
+      },
+      {
+        "id": "prep-documentacion-10",
+        "label": "Reserva camping",
+        "group": ""
+      },
+      {
+        "id": "prep-documentacion-11",
+        "label": "Confirmaciones offline",
+        "group": ""
+      },
+      {
+        "id": "prep-documentacion-12",
+        "label": "Mapas offline",
+        "group": ""
+      }
+    ]
+  },
+  {
+    "id": "coche",
+    "title": "Coche",
+    "items": [
+      {
+        "id": "prep-coche-1",
+        "label": "Combustible",
+        "group": ""
+      },
+      {
+        "id": "prep-coche-2",
+        "label": "Presión neumáticos",
+        "group": ""
+      },
+      {
+        "id": "prep-coche-3",
+        "label": "Nivel de aceite",
+        "group": ""
+      },
+      {
+        "id": "prep-coche-4",
+        "label": "Refrigerante",
+        "group": ""
+      },
+      {
+        "id": "prep-coche-5",
+        "label": "Limpiaparabrisas",
+        "group": ""
+      },
+      {
+        "id": "prep-coche-6",
+        "label": "Luces",
+        "group": ""
+      },
+      {
+        "id": "prep-coche-7",
+        "label": "Rueda / kit antipinchazos",
+        "group": ""
+      },
+      {
+        "id": "prep-coche-8",
+        "label": "Chalecos",
+        "group": ""
+      },
+      {
+        "id": "prep-coche-9",
+        "label": "Triángulos / señalización correspondiente",
+        "group": ""
+      },
+      {
+        "id": "prep-coche-10",
+        "label": "Seguro",
+        "group": ""
+      },
+      {
+        "id": "prep-coche-11",
+        "label": "Documentación",
+        "group": ""
+      },
+      {
+        "id": "prep-coche-12",
+        "label": "Cargador de coche",
+        "group": ""
+      },
+      {
+        "id": "prep-coche-13",
+        "label": "Soporte móvil",
+        "group": ""
+      },
+      {
+        "id": "prep-coche-14",
+        "label": "Navegación",
+        "group": ""
+      },
+      {
+        "id": "prep-coche-15",
+        "label": "Organizar maletero",
+        "group": ""
+      }
+    ]
+  },
+  {
+    "id": "tecnologia",
+    "title": "Tecnología",
+    "items": [
+      {
+        "id": "prep-tecnologia-1",
+        "label": "Móviles",
+        "group": ""
+      },
+      {
+        "id": "prep-tecnologia-2",
+        "label": "Cargadores",
+        "group": ""
+      },
+      {
+        "id": "prep-tecnologia-3",
+        "label": "Power bank",
+        "group": ""
+      },
+      {
+        "id": "prep-tecnologia-4",
+        "label": "Cable coche",
+        "group": ""
+      },
+      {
+        "id": "prep-tecnologia-5",
+        "label": "Soporte móvil",
+        "group": ""
+      },
+      {
+        "id": "prep-tecnologia-6",
+        "label": "Cámara",
+        "group": ""
+      },
+      {
+        "id": "prep-tecnologia-7",
+        "label": "Tarjetas SD",
+        "group": ""
+      },
+      {
+        "id": "prep-tecnologia-8",
+        "label": "Baterías cámara",
+        "group": ""
+      },
+      {
+        "id": "prep-tecnologia-9",
+        "label": "Cargador cámara",
+        "group": ""
+      },
+      {
+        "id": "prep-tecnologia-10",
+        "label": "Dron DJI Neo si se decide llevar",
+        "group": ""
+      },
+      {
+        "id": "prep-tecnologia-11",
+        "label": "Cargador dron",
+        "group": ""
+      },
+      {
+        "id": "prep-tecnologia-12",
+        "label": "Mapas offline",
+        "group": ""
+      },
+      {
+        "id": "prep-tecnologia-13",
+        "label": "Rutas trekking offline",
+        "group": ""
+      }
+    ]
+  },
+  {
+    "id": "mochila",
+    "title": "Mochila de día / trekking",
+    "items": [
+      {
+        "id": "prep-mochila-1",
+        "label": "Agua",
+        "group": ""
+      },
+      {
+        "id": "prep-mochila-2",
+        "label": "Snacks",
+        "group": ""
+      },
+      {
+        "id": "prep-mochila-3",
+        "label": "Chubasquero",
+        "group": ""
+      },
+      {
+        "id": "prep-mochila-4",
+        "label": "Polar",
+        "group": ""
+      },
+      {
+        "id": "prep-mochila-5",
+        "label": "Protector solar",
+        "group": ""
+      },
+      {
+        "id": "prep-mochila-6",
+        "label": "Gafas",
+        "group": ""
+      },
+      {
+        "id": "prep-mochila-7",
+        "label": "Móvil",
+        "group": ""
+      },
+      {
+        "id": "prep-mochila-8",
+        "label": "Power bank",
+        "group": ""
+      },
+      {
+        "id": "prep-mochila-9",
+        "label": "Documentación",
+        "group": ""
+      },
+      {
+        "id": "prep-mochila-10",
+        "label": "Mini botiquín",
+        "group": ""
+      },
+      {
+        "id": "prep-mochila-11",
+        "label": "Pañuelos",
+        "group": ""
+      },
+      {
+        "id": "prep-mochila-12",
+        "label": "Bolsa basura",
+        "group": ""
+      },
+      {
+        "id": "prep-mochila-13",
+        "label": "Cámara",
+        "group": ""
+      }
+    ]
+  },
+  {
+    "id": "pendientes",
+    "title": "Pendientes del viaje",
+    "items": [
+      {
+        "id": "prep-pendientes-1",
+        "label": "Confirmación de Naturcamping Langenwald",
+        "group": "Reservas"
+      },
+      {
+        "id": "prep-pendientes-2",
+        "label": "Primera noche / Friburgo",
+        "group": "Reservas"
+      },
+      {
+        "id": "prep-pendientes-3",
+        "label": "Confirmar qué hacemos la noche del 24",
+        "group": "Reservas"
+      },
+      {
+        "id": "prep-pendientes-4",
+        "label": "Hotel en Suiza",
+        "group": "Reservas"
+      },
+      {
+        "id": "prep-pendientes-5",
+        "label": "Hotel de regreso del 26",
+        "group": "Reservas"
+      },
+      {
+        "id": "prep-pendientes-6",
+        "label": "Revisar cancelaciones y horarios de check-in",
+        "group": "Reservas"
+      },
+      {
+        "id": "prep-pendientes-extra0-1",
+        "label": "Elegir ruta exacta de Ravenna Schlucht",
+        "group": "Itinerario"
+      },
+      {
+        "id": "prep-pendientes-extra0-2",
+        "label": "Revisar teleférico Feldberg",
+        "group": "Itinerario"
+      },
+      {
+        "id": "prep-pendientes-extra0-3",
+        "label": "Elegir pueblos de Alsacia",
+        "group": "Itinerario"
+      },
+      {
+        "id": "prep-pendientes-extra0-4",
+        "label": "Definir plan exacto de Lucerna/Berna",
+        "group": "Itinerario"
+      },
+      {
+        "id": "prep-pendientes-extra0-5",
+        "label": "Definir Annecy",
+        "group": "Itinerario"
+      },
+      {
+        "id": "prep-pendientes-extra0-6",
+        "label": "Preparar rutas offline",
+        "group": "Itinerario"
+      },
+      {
+        "id": "prep-pendientes-extra1-1",
+        "label": "Revisar electricidad de la parcela",
+        "group": "Camping"
+      },
+      {
+        "id": "prep-pendientes-extra1-2",
+        "label": "Confirmar tipo de enchufe/adaptador",
+        "group": "Camping"
+      },
+      {
+        "id": "prep-pendientes-extra1-3",
+        "label": "Revisar temperatura nocturna antes de salir",
+        "group": "Camping"
+      },
+      {
+        "id": "prep-pendientes-extra1-4",
+        "label": "Decidir configuración de sacos y mantas",
+        "group": "Camping"
+      },
+      {
+        "id": "prep-pendientes-extra1-5",
+        "label": "Revisar impermeabilidad/lona",
+        "group": "Camping"
+      },
+      {
+        "id": "prep-pendientes-extra1-6",
+        "label": "Comprobar todo el material antes de cargar el coche",
+        "group": "Camping"
       }
     ]
   }

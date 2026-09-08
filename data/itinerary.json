@@ -1,90 +1,562 @@
 [
   {
     "id": "day-1",
-    "title": "Barcelona → La Garrotxa",
-    "date": "Día 1",
-    "distanceKm": 150,
-    "description": "Dejamos la ciudad y bajamos el ritmo.",
-    "activities": [
-      "Recoger la van y revisar el equipamiento",
-      "Pasear por Santa Pau",
-      "Preparar una cena sencilla"
+    "date": "2026-09-19",
+    "title": "Barcelona → Selva Negra / Friburgo",
+    "origin": "Barcelona",
+    "destination": "Zona Selva Negra / Friburgo",
+    "reservationId": "friburgo",
+    "status": "Pendiente",
+    "plan": [
+      "Salida a las 05:00 desde Barcelona",
+      "Jornada principal de carretera",
+      "Primera noche fuera de Barcelona"
     ],
-    "overnight": "Camping por elegir en La Garrotxa"
+    "notes": "Se había planteado un hotel en Friburgo antes de entrar al camping. Alojamiento pendiente de revisar. Ruta exacta pendiente de cerrar.",
+    "checklist": [
+      {
+        "id": "day-1-1",
+        "label": "Cargar coche",
+        "group": ""
+      },
+      {
+        "id": "day-1-2",
+        "label": "Documentación",
+        "group": ""
+      },
+      {
+        "id": "day-1-3",
+        "label": "Agua",
+        "group": ""
+      },
+      {
+        "id": "day-1-4",
+        "label": "Snacks/comida de carretera",
+        "group": ""
+      },
+      {
+        "id": "day-1-5",
+        "label": "Combustible",
+        "group": ""
+      },
+      {
+        "id": "day-1-6",
+        "label": "Navegación preparada",
+        "group": ""
+      },
+      {
+        "id": "day-1-7",
+        "label": "Confirmar alojamiento",
+        "group": ""
+      },
+      {
+        "id": "day-1-8",
+        "label": "Salir 05:00",
+        "group": ""
+      }
+    ]
   },
   {
     "id": "day-2",
-    "title": "La Garrotxa",
-    "date": "Día 2",
-    "distanceKm": 35,
-    "description": "Un día entre senderos y pueblos.",
-    "activities": [
-      "Elegir un paseo señalizado",
-      "Visitar los alrededores de Olot",
-      "Reponer agua en un punto autorizado"
+    "date": "2026-09-20",
+    "title": "Naturcamping Langenwald",
+    "origin": "Primera noche / por confirmar",
+    "destination": "Naturcamping Langenwald",
+    "reservationId": "langenwald",
+    "status": "Pendiente",
+    "plan": [
+      "Llegar y hacer check-in",
+      "Confirmar parcela",
+      "Montar tienda y zona de dormir",
+      "Montar cocina/camping",
+      "Conectar electricidad",
+      "Organizar comida y nevera",
+      "Tarde tranquila",
+      "Recorrer camping y alrededores"
     ],
-    "overnight": "Segunda noche en La Garrotxa"
+    "notes": "Entrada 20/9, salida 24/9. Elegido por entorno de bosque, privacidad y naturaleza. Solicitud de reserva enviada; pendiente de recibir confirmación.",
+    "checklist": [
+      {
+        "id": "day-2-1",
+        "label": "Check-in",
+        "group": ""
+      },
+      {
+        "id": "day-2-2",
+        "label": "Confirmar parcela",
+        "group": ""
+      },
+      {
+        "id": "day-2-3",
+        "label": "Montar tienda",
+        "group": ""
+      },
+      {
+        "id": "day-2-4",
+        "label": "Poner lona/suelo",
+        "group": ""
+      },
+      {
+        "id": "day-2-5",
+        "label": "Inflar colchones",
+        "group": ""
+      },
+      {
+        "id": "day-2-6",
+        "label": "Preparar ropa de cama",
+        "group": ""
+      },
+      {
+        "id": "day-2-7",
+        "label": "Conectar electricidad",
+        "group": ""
+      },
+      {
+        "id": "day-2-8",
+        "label": "Instalar nevera",
+        "group": ""
+      },
+      {
+        "id": "day-2-9",
+        "label": "Organizar cocina",
+        "group": ""
+      },
+      {
+        "id": "day-2-10",
+        "label": "Localizar baños y duchas",
+        "group": ""
+      },
+      {
+        "id": "day-2-11",
+        "label": "Revisar agua potable",
+        "group": ""
+      },
+      {
+        "id": "day-2-12",
+        "label": "Preparar iluminación para la noche",
+        "group": ""
+      }
+    ]
   },
   {
     "id": "day-3",
-    "title": "La Garrotxa → Camprodon",
-    "date": "Día 3",
-    "distanceKm": 65,
-    "description": "Ponemos rumbo a la montaña.",
-    "activities": [
-      "Salir después del desayuno",
-      "Pasear por Camprodon",
-      "Consultar el tiempo antes de caminar"
+    "date": "2026-09-21",
+    "title": "Feldberg",
+    "origin": "Naturcamping Langenwald",
+    "destination": "Feldberg",
+    "reservationId": "langenwald",
+    "status": "Pendiente",
+    "plan": [
+      "Día de montaña",
+      "Subir en teleférico",
+      "Pasear por la zona alta",
+      "Sendero/paseo adaptado al estado físico",
+      "Evitar una caminata demasiado exigente"
     ],
-    "overnight": "Camping por elegir cerca de Camprodon"
+    "notes": "Prioridades: vistas, naturaleza, teleférico y montaña. Revisar horarios y meteorología antes de salir.",
+    "checklist": [
+      {
+        "id": "day-3-1",
+        "label": "Revisar meteorología",
+        "group": ""
+      },
+      {
+        "id": "day-3-2",
+        "label": "Calzado de trekking",
+        "group": ""
+      },
+      {
+        "id": "day-3-3",
+        "label": "Mochila",
+        "group": ""
+      },
+      {
+        "id": "day-3-4",
+        "label": "Agua",
+        "group": ""
+      },
+      {
+        "id": "day-3-5",
+        "label": "Abrigo",
+        "group": ""
+      },
+      {
+        "id": "day-3-6",
+        "label": "Chubasquero",
+        "group": ""
+      },
+      {
+        "id": "day-3-7",
+        "label": "Snacks",
+        "group": ""
+      },
+      {
+        "id": "day-3-8",
+        "label": "Batería del móvil",
+        "group": ""
+      },
+      {
+        "id": "day-3-9",
+        "label": "Entradas/horarios teleférico",
+        "group": ""
+      }
+    ]
   },
   {
     "id": "day-4",
-    "title": "Camprodon → Empordà",
-    "date": "Día 4",
-    "distanceKm": 120,
-    "description": "Cambiamos las montañas por llanuras.",
-    "activities": [
-      "Parada para comer en ruta",
-      "Paseo por un pueblo del Empordà"
+    "date": "2026-09-22",
+    "title": "Ravenna Schlucht + senderismo",
+    "origin": "Naturcamping Langenwald",
+    "destination": "Ravenna Schlucht",
+    "reservationId": "langenwald",
+    "status": "Pendiente",
+    "plan": [
+      "Visitar Ravenna Schlucht",
+      "Combinar con senderismo por el sur de Selva Negra",
+      "Objetivo aproximado: 8–10 km",
+      "Ruta circular si es posible"
     ],
-    "overnight": "Camping por elegir en el Empordà"
+    "notes": "Ruta pendiente de elegir. Prioridades: bosque, garganta y paisaje; interesante y no excesivamente técnica. Evitar dificultad excesiva.",
+    "checklist": [
+      {
+        "id": "day-4-1",
+        "label": "Revisar clima",
+        "group": ""
+      },
+      {
+        "id": "day-4-2",
+        "label": "Descargar ruta offline",
+        "group": ""
+      },
+      {
+        "id": "day-4-3",
+        "label": "Móvil cargado",
+        "group": ""
+      },
+      {
+        "id": "day-4-4",
+        "label": "Agua",
+        "group": ""
+      },
+      {
+        "id": "day-4-5",
+        "label": "Comida/snacks",
+        "group": ""
+      },
+      {
+        "id": "day-4-6",
+        "label": "Calzado adecuado",
+        "group": ""
+      },
+      {
+        "id": "day-4-7",
+        "label": "Bastones si se llevan",
+        "group": ""
+      },
+      {
+        "id": "day-4-8",
+        "label": "Capa impermeable",
+        "group": ""
+      },
+      {
+        "id": "day-4-9",
+        "label": "Abrigo",
+        "group": ""
+      },
+      {
+        "id": "day-4-10",
+        "label": "Botiquín pequeño",
+        "group": ""
+      }
+    ]
   },
   {
     "id": "day-5",
-    "title": "Empordà → Costa Brava",
-    "date": "Día 5",
-    "distanceKm": 50,
-    "description": "Primer encuentro con el mar.",
-    "activities": [
-      "Buscar una playa accesible",
-      "Consultar aparcamiento permitido para la van"
+    "date": "2026-09-23",
+    "title": "Alsacia + pueblos + Estrasburgo",
+    "origin": "Naturcamping Langenwald",
+    "destination": "Alsacia / Estrasburgo",
+    "reservationId": "langenwald",
+    "status": "Pendiente",
+    "plan": [
+      "Cruzar a Francia",
+      "Visitar pueblos de Alsacia",
+      "Incluir Estrasburgo",
+      "Comer fuera",
+      "Coche entre localidades"
     ],
-    "overnight": "Camping por elegir en la Costa Brava"
+    "notes": "Día más relajado físicamente: paseos, pueblos y fotos. Pueblos concretos pendientes de elegir.",
+    "checklist": [
+      {
+        "id": "day-5-1",
+        "label": "Revisar ruta",
+        "group": ""
+      },
+      {
+        "id": "day-5-2",
+        "label": "Aparcamientos",
+        "group": ""
+      },
+      {
+        "id": "day-5-3",
+        "label": "Documentación coche",
+        "group": ""
+      },
+      {
+        "id": "day-5-4",
+        "label": "Agua",
+        "group": ""
+      },
+      {
+        "id": "day-5-5",
+        "label": "Chaqueta",
+        "group": ""
+      },
+      {
+        "id": "day-5-6",
+        "label": "Cargador móvil",
+        "group": ""
+      },
+      {
+        "id": "day-5-7",
+        "label": "Revisar qué pueblos visitar",
+        "group": ""
+      }
+    ]
   },
   {
     "id": "day-6",
-    "title": "Costa Brava",
-    "date": "Día 6",
-    "distanceKm": 40,
-    "description": "Hoy no hay prisa.",
-    "activities": [
-      "Pasear por un tramo del camino de ronda",
-      "Organizar el interior de la van"
+    "date": "2026-09-24",
+    "title": "Desmontar camping → Alsacia / Suiza",
+    "origin": "Naturcamping Langenwald",
+    "destination": "Alsacia / Suiza · noche planteada en Colmar",
+    "reservationId": "colmar",
+    "status": "Pendiente",
+    "plan": [
+      "Desayunar",
+      "Recoger camping y desmontar tienda",
+      "Secar la tienda si está húmeda, si es posible",
+      "Cargar coche",
+      "Continuar hacia Alsacia / Suiza"
     ],
-    "overnight": "Segunda noche en la Costa Brava"
+    "notes": "Noche planteada: Colmar. Pendiente de confirmación.",
+    "checklist": [
+      {
+        "id": "day-6-1",
+        "label": "Vaciar tienda",
+        "group": ""
+      },
+      {
+        "id": "day-6-2",
+        "label": "Guardar ropa de cama",
+        "group": ""
+      },
+      {
+        "id": "day-6-3",
+        "label": "Desinflar colchones",
+        "group": ""
+      },
+      {
+        "id": "day-6-4",
+        "label": "Desconectar electricidad",
+        "group": ""
+      },
+      {
+        "id": "day-6-5",
+        "label": "Vaciar/ordenar nevera",
+        "group": ""
+      },
+      {
+        "id": "day-6-6",
+        "label": "Guardar cocina",
+        "group": ""
+      },
+      {
+        "id": "day-6-7",
+        "label": "Recoger basura",
+        "group": ""
+      },
+      {
+        "id": "day-6-8",
+        "label": "Revisar parcela",
+        "group": ""
+      },
+      {
+        "id": "day-6-9",
+        "label": "Guardar piquetas",
+        "group": ""
+      },
+      {
+        "id": "day-6-10",
+        "label": "Guardar lona",
+        "group": ""
+      },
+      {
+        "id": "day-6-11",
+        "label": "Guardar tienda",
+        "group": ""
+      },
+      {
+        "id": "day-6-12",
+        "label": "Check-out",
+        "group": ""
+      }
+    ]
   },
   {
     "id": "day-7",
-    "title": "Costa Brava → Barcelona",
-    "date": "Día 7",
-    "distanceKm": 180,
-    "description": "El último café antes de volver.",
-    "activities": [
-      "Vaciar depósitos en una estación autorizada",
-      "Repostar y revisar la van",
-      "Devolver las llaves"
+    "date": "2026-09-25",
+    "title": "Suiza · Lucerna / Berna",
+    "origin": "Colmar / por confirmar",
+    "destination": "Lucerna / Berna",
+    "reservationId": "berna",
+    "status": "Pendiente",
+    "plan": [
+      "Plan favorito: pasar el día en Lucerna",
+      "Dormir en Berna"
     ],
-    "overnight": "Fin del viaje"
+    "notes": "Mantener abierto según meteorología, cansancio, precio y tiempo disponible. Hotel pendiente de reservar. Referencia: aprox. 110 € por noche aceptable; 190 € demasiado caro.",
+    "checklist": [
+      {
+        "id": "day-7-1",
+        "label": "Reservar hotel",
+        "group": ""
+      },
+      {
+        "id": "day-7-2",
+        "label": "Revisar parking",
+        "group": ""
+      },
+      {
+        "id": "day-7-3",
+        "label": "Revisar restricciones de coche",
+        "group": ""
+      },
+      {
+        "id": "day-7-4",
+        "label": "Revisar viñeta/autopistas",
+        "group": ""
+      },
+      {
+        "id": "day-7-5",
+        "label": "Decidir Lucerna",
+        "group": ""
+      },
+      {
+        "id": "day-7-6",
+        "label": "Decidir Berna",
+        "group": ""
+      },
+      {
+        "id": "day-7-7",
+        "label": "Preparar ruta del día",
+        "group": ""
+      }
+    ]
+  },
+  {
+    "id": "day-8",
+    "date": "2026-09-26",
+    "title": "Suiza → Annecy → Montpellier / A9",
+    "origin": "Berna",
+    "destination": "Annecy → Montpellier / A9",
+    "reservationId": "regreso",
+    "status": "Pendiente",
+    "plan": [
+      "Check-out y salir de Berna",
+      "Parada en Annecy",
+      "Seguir hacia el sur",
+      "Dormir en hotel de carretera por Montpellier / A9"
+    ],
+    "notes": "Objetivo: no hacer Suiza → Barcelona de una vez. Hotel de carretera pendiente.",
+    "checklist": [
+      {
+        "id": "day-8-1",
+        "label": "Check-out",
+        "group": ""
+      },
+      {
+        "id": "day-8-2",
+        "label": "Cargar coche",
+        "group": ""
+      },
+      {
+        "id": "day-8-3",
+        "label": "Combustible",
+        "group": ""
+      },
+      {
+        "id": "day-8-4",
+        "label": "Annecy",
+        "group": ""
+      },
+      {
+        "id": "day-8-5",
+        "label": "Hotel de carretera",
+        "group": ""
+      },
+      {
+        "id": "day-8-6",
+        "label": "Revisar tráfico",
+        "group": ""
+      },
+      {
+        "id": "day-8-7",
+        "label": "Preparar comida/agua para carretera",
+        "group": ""
+      }
+    ]
+  },
+  {
+    "id": "day-9",
+    "date": "2026-09-27",
+    "title": "Regreso a Barcelona",
+    "origin": "Parada intermedia / Montpellier / A9",
+    "destination": "Barcelona",
+    "reservationId": null,
+    "status": "Pendiente",
+    "plan": [
+      "Salir de la parada intermedia",
+      "Último tramo",
+      "Llegada a Barcelona"
+    ],
+    "notes": "Descargar y revisar el material al llegar.",
+    "checklist": [
+      {
+        "id": "day-9-1",
+        "label": "Combustible",
+        "group": ""
+      },
+      {
+        "id": "day-9-2",
+        "label": "Revisar tráfico",
+        "group": ""
+      },
+      {
+        "id": "day-9-3",
+        "label": "Agua/comida",
+        "group": ""
+      },
+      {
+        "id": "day-9-4",
+        "label": "Llegada a casa",
+        "group": ""
+      },
+      {
+        "id": "day-9-5",
+        "label": "Descargar coche",
+        "group": ""
+      },
+      {
+        "id": "day-9-6",
+        "label": "Airear tienda si se guardó húmeda",
+        "group": ""
+      },
+      {
+        "id": "day-9-7",
+        "label": "Limpiar/guardar material",
+        "group": ""
+      }
+    ]
   }
 ]

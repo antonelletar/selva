@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "Selva · Tu viaje en van",
+  "name": "Selva Negra 2026",
   "short_name": "Selva",
-  "description": "Tu cuaderno de ruta, también sin conexión.",
+  "description": "Itinerario, preparación y reservas del viaje.",
   "lang": "es",
   "start_url": "./",
   "scope": "./",

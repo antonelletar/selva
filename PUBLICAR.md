@@ -39,7 +39,7 @@ Ya puedes apagar el Mac. Vercel sirve la app por HTTPS sin que tengas que ejecut
 
 1. Envía a tu iPhone el enlace HTTPS de producción.
 2. Ábrelo en Safari con conexión a Internet.
-3. En Inicio, espera el mensaje «Lista para acompañarte sin conexión».
+3. En Inicio, espera el mensaje «Disponible sin conexión».
 
 ## 5. Añadirla a la pantalla de inicio
 
@@ -57,7 +57,7 @@ Se guardan en el dispositivo, sin base de datos ni sincronización. Las marcas d
 
 ## Cuando quieras cambiar el viaje
 
-Puedes editar los archivos de `data` en GitHub con el lápiz y guardar con Commit changes. Mantén los identificadores de los elementos para conservar sus marcas. Cada vez que cambies archivos, cambia también `selva-v2` a un nombre nuevo (por ejemplo `selva-v3`) en `sw.js`. Vercel publicará el cambio automáticamente. Abre Selva con conexión para descargarlo, cierra todas sus ventanas y pestañas, y vuelve a abrir para activar la actualización.
+Puedes editar los archivos de `data` en GitHub con el lápiz y guardar con Commit changes. Mantén los identificadores de los elementos para conservar sus marcas. Cada vez que cambies archivos, cambia también `selva-v3` a un nombre nuevo (por ejemplo `selva-v4`) en `sw.js`. Vercel publicará el cambio automáticamente. Abre Selva con conexión para descargarlo, cierra todas sus ventanas y pestañas, y vuelve a abrir para activar la actualización.
 
 Aunque el repositorio sea privado, la app publicada y sus JSON son accesibles sin login. No pongas contraseñas ni documentación privada en ellos.
 

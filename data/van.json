@@ -1,29 +1,134 @@
 [
   {
-    "title": "Antes de arrancar",
+    "id": "arrival",
+    "title": "Al llegar",
     "items": [
-      "Anotar matrícula, altura y dimensiones de la van.",
-      "Comprobar combustible, neumáticos y luces.",
-      "Cerrar claraboyas, ventanas y armarios.",
-      "Guardar el contacto de asistencia del alquiler."
+      {
+        "id": "camp-arrival-1",
+        "label": "Check-in",
+        "group": ""
+      },
+      {
+        "id": "camp-arrival-2",
+        "label": "Confirmar parcela",
+        "group": ""
+      },
+      {
+        "id": "camp-arrival-3",
+        "label": "Montar tienda",
+        "group": ""
+      },
+      {
+        "id": "camp-arrival-4",
+        "label": "Poner lona/suelo",
+        "group": ""
+      },
+      {
+        "id": "camp-arrival-5",
+        "label": "Inflar colchones",
+        "group": ""
+      },
+      {
+        "id": "camp-arrival-6",
+        "label": "Preparar ropa de cama",
+        "group": ""
+      },
+      {
+        "id": "camp-arrival-7",
+        "label": "Conectar electricidad",
+        "group": ""
+      },
+      {
+        "id": "camp-arrival-8",
+        "label": "Instalar nevera",
+        "group": ""
+      },
+      {
+        "id": "camp-arrival-9",
+        "label": "Organizar cocina",
+        "group": ""
+      },
+      {
+        "id": "camp-arrival-10",
+        "label": "Localizar baños y duchas",
+        "group": ""
+      },
+      {
+        "id": "camp-arrival-11",
+        "label": "Revisar agua potable",
+        "group": ""
+      },
+      {
+        "id": "camp-arrival-12",
+        "label": "Preparar iluminación para la noche",
+        "group": ""
+      }
     ]
   },
   {
-    "title": "Al llegar al camping",
+    "id": "departure",
+    "title": "Antes de salir / desmontar",
     "items": [
-      "Confirmar el horario de entrada y la parcela.",
-      "Estacionar en una zona permitida y estable.",
-      "Revisar las instrucciones de conexión eléctrica de la van.",
-      "Localizar los puntos de agua y vaciado autorizados."
-    ]
-  },
-  {
-    "title": "Antes de dejar la parcela",
-    "items": [
-      "Desconectar y guardar el cable eléctrico.",
-      "Asegurar objetos y recoger residuos.",
-      "Vaciar aguas grises y WC solo en puntos autorizados.",
-      "Comprobar las normas locales de aparcamiento y pernocta."
+      {
+        "id": "camp-departure-1",
+        "label": "Vaciar tienda",
+        "group": ""
+      },
+      {
+        "id": "camp-departure-2",
+        "label": "Guardar ropa de cama",
+        "group": ""
+      },
+      {
+        "id": "camp-departure-3",
+        "label": "Desinflar colchones",
+        "group": ""
+      },
+      {
+        "id": "camp-departure-4",
+        "label": "Desconectar electricidad",
+        "group": ""
+      },
+      {
+        "id": "camp-departure-5",
+        "label": "Vaciar/ordenar nevera",
+        "group": ""
+      },
+      {
+        "id": "camp-departure-6",
+        "label": "Guardar cocina",
+        "group": ""
+      },
+      {
+        "id": "camp-departure-7",
+        "label": "Recoger basura",
+        "group": ""
+      },
+      {
+        "id": "camp-departure-8",
+        "label": "Revisar parcela",
+        "group": ""
+      },
+      {
+        "id": "camp-departure-9",
+        "label": "Guardar piquetas",
+        "group": ""
+      },
+      {
+        "id": "camp-departure-10",
+        "label": "Guardar lona",
+        "group": ""
+      },
+      {
+        "id": "camp-departure-11",
+        "label": "Guardar tienda",
+        "group": ""
+      },
+      {
+        "id": "camp-departure-12",
+        "label": "Check-out",
+        "group": ""
+      }
     ]
   }
 ]

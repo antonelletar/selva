@@ -1,0 +1,44 @@
+[
+  {
+    "id": "identity",
+    "title": "DNI / pasaporte",
+    "notes": "",
+    "ready": false
+  },
+  {
+    "id": "car",
+    "title": "Coche",
+    "notes": "",
+    "ready": false
+  },
+  {
+    "id": "insurance",
+    "title": "Seguro",
+    "notes": "",
+    "ready": false
+  },
+  {
+    "id": "health",
+    "title": "Tarjeta sanitaria",
+    "notes": "",
+    "ready": false
+  },
+  {
+    "id": "bookings",
+    "title": "Reservas",
+    "notes": "",
+    "ready": false
+  },
+  {
+    "id": "permits",
+    "title": "Viñetas / permisos",
+    "notes": "",
+    "ready": false
+  },
+  {
+    "id": "maps",
+    "title": "Mapas offline",
+    "notes": "",
+    "ready": false
+  }
+]
