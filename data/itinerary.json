@@ -2,9 +2,9 @@
   {
     "id": "day-1",
     "date": "2026-09-19",
-    "title": "Barcelona → Selva Negra / Friburgo",
+    "title": "Barcelona → Freiburg im Breisgau",
     "origin": "Barcelona",
-    "destination": "Zona Selva Negra / Friburgo",
+    "destination": "Freiburg im Breisgau",
     "reservationId": "friburgo",
     "status": "Pendiente",
     "plan": [
@@ -12,7 +12,7 @@
       "Jornada principal de carretera",
       "Primera noche fuera de Barcelona"
     ],
-    "notes": "Se había planteado un hotel en Friburgo antes de entrar al camping. Alojamiento pendiente de revisar. Ruta exacta pendiente de cerrar.",
+    "notes": "Salida a las 05:00 desde Barcelona. Ruta exacta pendiente de cerrar.",
     "checklist": [
       {
         "id": "day-1-1",
@@ -60,7 +60,7 @@
     "id": "day-2",
     "date": "2026-09-20",
     "title": "Naturcamping Langenwald",
-    "origin": "Primera noche / por confirmar",
+    "origin": "Freiburg im Breisgau",
     "destination": "Naturcamping Langenwald",
     "reservationId": "langenwald",
     "status": "Pendiente",
@@ -327,9 +327,9 @@
   {
     "id": "day-6",
     "date": "2026-09-24",
-    "title": "Desmontar camping → Alsacia / Suiza",
+    "title": "Selva Negra → Colmar",
     "origin": "Naturcamping Langenwald",
-    "destination": "Alsacia / Suiza · noche planteada en Colmar",
+    "destination": "Colmar",
     "reservationId": "colmar",
     "status": "Pendiente",
     "plan": [
@@ -337,9 +337,9 @@
       "Recoger camping y desmontar tienda",
       "Secar la tienda si está húmeda, si es posible",
       "Cargar coche",
-      "Continuar hacia Alsacia / Suiza"
+      "Continuar hacia Colmar"
     ],
-    "notes": "Noche planteada: Colmar. Pendiente de confirmación.",
+    "notes": "Desmontar el camping y continuar hacia Colmar.",
     "checklist": [
       {
         "id": "day-6-1",
@@ -406,16 +406,16 @@
   {
     "id": "day-7",
     "date": "2026-09-25",
-    "title": "Suiza · Lucerna / Berna",
-    "origin": "Colmar / por confirmar",
-    "destination": "Lucerna / Berna",
+    "title": "Colmar → Berna",
+    "origin": "Colmar",
+    "destination": "Berna",
     "reservationId": "berna",
     "status": "Pendiente",
     "plan": [
       "Plan favorito: pasar el día en Lucerna",
       "Dormir en Berna"
     ],
-    "notes": "Mantener abierto según meteorología, cansancio, precio y tiempo disponible. Hotel pendiente de reservar. Referencia: aprox. 110 € por noche aceptable; 190 € demasiado caro.",
+    "notes": "Plan de Lucerna abierto según meteorología, cansancio y tiempo disponible.",
     "checklist": [
       {
         "id": "day-7-1",
@@ -457,18 +457,18 @@
   {
     "id": "day-8",
     "date": "2026-09-26",
-    "title": "Suiza → Annecy → Montpellier / A9",
+    "title": "Berna → Montpellier / Saint-Jean-de-Védas",
     "origin": "Berna",
-    "destination": "Annecy → Montpellier / A9",
+    "destination": "Montpellier / Saint-Jean-de-Védas",
     "reservationId": "regreso",
     "status": "Pendiente",
     "plan": [
       "Check-out y salir de Berna",
       "Parada en Annecy",
       "Seguir hacia el sur",
-      "Dormir en hotel de carretera por Montpellier / A9"
+      "Dormir en Montpellier / Saint-Jean-de-Védas"
     ],
-    "notes": "Objetivo: no hacer Suiza → Barcelona de una vez. Hotel de carretera pendiente.",
+    "notes": "Parada en Annecy. Última noche antes de regresar a Barcelona.",
     "checklist": [
       {
         "id": "day-8-1",
@@ -510,8 +510,8 @@
   {
     "id": "day-9",
     "date": "2026-09-27",
-    "title": "Regreso a Barcelona",
-    "origin": "Parada intermedia / Montpellier / A9",
+    "title": "Montpellier → Barcelona",
+    "origin": "Montpellier / Saint-Jean-de-Védas",
     "destination": "Barcelona",
     "reservationId": null,
     "status": "Pendiente",
