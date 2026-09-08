@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Antes de arrancar",
+    "items": [
+      "Anotar matrícula, altura y dimensiones de la van.",
+      "Comprobar combustible, neumáticos y luces.",
+      "Cerrar claraboyas, ventanas y armarios.",
+      "Guardar el contacto de asistencia del alquiler."
+    ]
+  },
+  {
+    "title": "Al llegar al camping",
+    "items": [
+      "Confirmar el horario de entrada y la parcela.",
+      "Estacionar en una zona permitida y estable.",
+      "Revisar las instrucciones de conexión eléctrica de la van.",
+      "Localizar los puntos de agua y vaciado autorizados."
+    ]
+  },
+  {
+    "title": "Antes de dejar la parcela",
+    "items": [
+      "Desconectar y guardar el cable eléctrico.",
+      "Asegurar objetos y recoger residuos.",
+      "Vaciar aguas grises y WC solo en puntos autorizados.",
+      "Comprobar las normas locales de aparcamiento y pernocta."
+    ]
+  }
+]

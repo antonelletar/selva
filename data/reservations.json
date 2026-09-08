@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Camping · primera parada",
+    "status": "Ejemplo · pendiente de reservar",
+    "checkIn": "Día 1",
+    "checkOut": "Día 3",
+    "reference": "Sin reserva",
+    "address": "Añade aquí la dirección del camping",
+    "notes": "Completa estos datos cuando hayas elegido dónde dormir."
+  }
+]

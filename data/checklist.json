@@ -1,0 +1,90 @@
+[
+  {
+    "id": "documentos",
+    "title": "Documentos",
+    "items": [
+      {
+        "id": "documentos-1",
+        "label": "DNI o pasaporte"
+      },
+      {
+        "id": "documentos-2",
+        "label": "Carnet de conducir"
+      },
+      {
+        "id": "documentos-3",
+        "label": "Contrato de alquiler"
+      },
+      {
+        "id": "documentos-4",
+        "label": "Seguro y asistencia"
+      }
+    ]
+  },
+  {
+    "id": "ropa",
+    "title": "Ropa y calzado",
+    "items": [
+      {
+        "id": "ropa-1",
+        "label": "Capas de abrigo"
+      },
+      {
+        "id": "ropa-2",
+        "label": "Impermeable"
+      },
+      {
+        "id": "ropa-3",
+        "label": "Calzado cómodo"
+      },
+      {
+        "id": "ropa-4",
+        "label": "Bañador y toalla"
+      }
+    ]
+  },
+  {
+    "id": "cocina",
+    "title": "Cocina y despensa",
+    "items": [
+      {
+        "id": "cocina-1",
+        "label": "Agua potable"
+      },
+      {
+        "id": "cocina-2",
+        "label": "Café y desayuno"
+      },
+      {
+        "id": "cocina-3",
+        "label": "Comida para los primeros días"
+      },
+      {
+        "id": "cocina-4",
+        "label": "Utensilios y bolsas de basura"
+      }
+    ]
+  },
+  {
+    "id": "van",
+    "title": "Van y descanso",
+    "items": [
+      {
+        "id": "van-1",
+        "label": "Ropa de cama"
+      },
+      {
+        "id": "van-2",
+        "label": "Linterna y pilas"
+      },
+      {
+        "id": "van-3",
+        "label": "Cables y cargadores"
+      },
+      {
+        "id": "van-4",
+        "label": "Revisar el equipamiento de la van"
+      }
+    ]
+  }
+]

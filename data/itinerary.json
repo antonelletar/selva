@@ -1,0 +1,90 @@
+[
+  {
+    "id": "day-1",
+    "title": "Barcelona → La Garrotxa",
+    "date": "Día 1",
+    "distanceKm": 150,
+    "description": "Dejamos la ciudad y bajamos el ritmo.",
+    "activities": [
+      "Recoger la van y revisar el equipamiento",
+      "Pasear por Santa Pau",
+      "Preparar una cena sencilla"
+    ],
+    "overnight": "Camping por elegir en La Garrotxa"
+  },
+  {
+    "id": "day-2",
+    "title": "La Garrotxa",
+    "date": "Día 2",
+    "distanceKm": 35,
+    "description": "Un día entre senderos y pueblos.",
+    "activities": [
+      "Elegir un paseo señalizado",
+      "Visitar los alrededores de Olot",
+      "Reponer agua en un punto autorizado"
+    ],
+    "overnight": "Segunda noche en La Garrotxa"
+  },
+  {
+    "id": "day-3",
+    "title": "La Garrotxa → Camprodon",
+    "date": "Día 3",
+    "distanceKm": 65,
+    "description": "Ponemos rumbo a la montaña.",
+    "activities": [
+      "Salir después del desayuno",
+      "Pasear por Camprodon",
+      "Consultar el tiempo antes de caminar"
+    ],
+    "overnight": "Camping por elegir cerca de Camprodon"
+  },
+  {
+    "id": "day-4",
+    "title": "Camprodon → Empordà",
+    "date": "Día 4",
+    "distanceKm": 120,
+    "description": "Cambiamos las montañas por llanuras.",
+    "activities": [
+      "Parada para comer en ruta",
+      "Paseo por un pueblo del Empordà"
+    ],
+    "overnight": "Camping por elegir en el Empordà"
+  },
+  {
+    "id": "day-5",
+    "title": "Empordà → Costa Brava",
+    "date": "Día 5",
+    "distanceKm": 50,
+    "description": "Primer encuentro con el mar.",
+    "activities": [
+      "Buscar una playa accesible",
+      "Consultar aparcamiento permitido para la van"
+    ],
+    "overnight": "Camping por elegir en la Costa Brava"
+  },
+  {
+    "id": "day-6",
+    "title": "Costa Brava",
+    "date": "Día 6",
+    "distanceKm": 40,
+    "description": "Hoy no hay prisa.",
+    "activities": [
+      "Pasear por un tramo del camino de ronda",
+      "Organizar el interior de la van"
+    ],
+    "overnight": "Segunda noche en la Costa Brava"
+  },
+  {
+    "id": "day-7",
+    "title": "Costa Brava → Barcelona",
+    "date": "Día 7",
+    "distanceKm": 180,
+    "description": "El último café antes de volver.",
+    "activities": [
+      "Vaciar depósitos en una estación autorizada",
+      "Repostar y revisar la van",
+      "Devolver las llaves"
+    ],
+    "overnight": "Fin del viaje"
+  }
+]
