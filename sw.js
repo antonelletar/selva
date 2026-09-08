@@ -1,4 +1,4 @@
-const CACHE='selva-v3';
+const CACHE='selva-v4';
 const BASE=new URL('./',self.location.href);
 const ASSETS=['./','index.html','styles.css','app.js','manifest.json','icons/icon-192.png','icons/icon-512.png','icons/apple-touch-icon.png','data/trip.json','data/itinerary.json','data/checklist.json','data/reservations.json','data/van.json','data/documents.json','data/shopping.json'].map(path=>new URL(path,BASE).href);
 self.addEventListener('install',event=>{event.waitUntil(caches.open(CACHE).then(cache=>cache.addAll(ASSETS.map(url=>new Request(url,{cache:"reload"})))));});
