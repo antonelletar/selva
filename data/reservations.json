@@ -1,5 +1,20 @@
 [
   {
+    "id": "schwarzwaldhorn",
+    "name": "Campingplatz Schwarzwaldhorn",
+    "city": "Simonswald",
+    "address": "Ettersbach 4b, 79263 Simonswald, Alemania",
+    "checkIn": "2026-09-20",
+    "checkOut": "2026-09-24",
+    "status": "Reservado",
+    "nights": 4,
+    "guests": "2 adultos",
+    "category": "Pendiente de confirmar",
+    "arrivalTime": "",
+    "departureTime": "",
+    "notes": "Horarios de entrada y salida no confirmados. Pendiente: añadir la matrícula del coche a la reserva."
+  },
+  {
     "id": "langenwald",
     "name": "Naturcamping Langenwald",
     "address": "",
@@ -8,11 +23,12 @@
     "price": "",
     "status": "Solicitud enviada",
     "reference": "",
-    "notes": "Solicitud enviada; pendiente de confirmación.",
+    "notes": "Alojamiento anterior. Cancelación no confirmada.",
     "link": "",
     "parking": "",
     "arrivalTime": "",
-    "departureTime": ""
+    "departureTime": "",
+    "active": false
   },
   {
     "id": "friburgo",
@@ -79,5 +95,13 @@
     "arrivalTime": "14:30 – 21:00",
     "departureTime": "Hasta las 11:00",
     "city": "Montpellier / Saint-Jean-de-Védas"
+  },
+  {
+    "id": "ruta-18",
+    "name": "Hotel de ruta · pendiente",
+    "checkIn": "2026-09-18",
+    "checkOut": "2026-09-19",
+    "status": "Pendiente",
+    "notes": "Nombre y ubicación pendientes."
   }
 ]

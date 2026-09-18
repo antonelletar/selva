@@ -1,18 +1,17 @@
 [
   {
     "id": "day-1",
-    "date": "2026-09-19",
-    "title": "Barcelona → Freiburg im Breisgau",
+    "date": "2026-09-18",
+    "title": "Salida de Barcelona",
     "origin": "Barcelona",
-    "destination": "Freiburg im Breisgau",
-    "reservationId": "friburgo",
+    "destination": "Hotel de ruta · ubicación pendiente",
+    "reservationId": "ruta-18",
     "status": "Pendiente",
     "plan": [
-      "Salida a las 05:00 desde Barcelona",
-      "Jornada principal de carretera",
-      "Primera noche fuera de Barcelona"
+      "Salida de Barcelona en coche",
+      "Noche en un hotel de ruta, nombre y ubicación pendientes"
     ],
-    "notes": "Salida a las 05:00 desde Barcelona. Ruta exacta pendiente de cerrar.",
+    "notes": "Hora de salida no indicada. Ruta exacta pendiente de cerrar.",
     "checklist": [
       {
         "id": "day-1-1",
@@ -51,30 +50,42 @@
       },
       {
         "id": "day-1-8",
-        "label": "Salir 05:00",
+        "label": "Salir de Barcelona",
         "group": ""
       }
     ]
   },
   {
-    "id": "day-2",
-    "date": "2026-09-20",
-    "title": "Naturcamping Langenwald",
-    "origin": "Freiburg im Breisgau",
-    "destination": "Naturcamping Langenwald",
-    "reservationId": "langenwald",
+    "id": "day-friburgo-19",
+    "date": "2026-09-19",
+    "title": "Continuación hacia Friburgo",
+    "origin": "Hotel de ruta · ubicación pendiente",
+    "destination": "Freiburg im Breisgau",
+    "reservationId": "friburgo",
     "status": "Pendiente",
     "plan": [
-      "Llegar y hacer check-in",
-      "Confirmar parcela",
-      "Montar tienda y zona de dormir",
-      "Montar cocina/camping",
-      "Conectar electricidad",
+      "Continuación hacia Friburgo",
+      "Noche en Premier Inn Freiburg City Nord"
+    ],
+    "notes": "",
+    "checklist": []
+  },
+  {
+    "id": "day-2",
+    "date": "2026-09-20",
+    "title": "Campingplatz Schwarzwaldhorn",
+    "origin": "Freiburg im Breisgau",
+    "destination": "Campingplatz Schwarzwaldhorn",
+    "reservationId": "schwarzwaldhorn",
+    "status": "Pendiente",
+    "plan": [
+      "Llegar a Campingplatz Schwarzwaldhorn, Simonswald",
+      "Check-in e instalación en el alojamiento",
       "Organizar comida y nevera",
       "Tarde tranquila",
       "Recorrer camping y alrededores"
     ],
-    "notes": "Entrada 20/9, salida 24/9. Elegido por entorno de bosque, privacidad y naturaleza. Solicitud de reserva enviada; pendiente de recibir confirmación.",
+    "notes": "20–24 septiembre · 4 noches · 2 adultos. Categoría del alojamiento y horarios pendientes de confirmar. Las tareas de montaje se conservan; aplicar según el alojamiento confirmado.",
     "checklist": [
       {
         "id": "day-2-1",
@@ -142,9 +153,9 @@
     "id": "day-3",
     "date": "2026-09-21",
     "title": "Feldberg",
-    "origin": "Naturcamping Langenwald",
+    "origin": "Campingplatz Schwarzwaldhorn",
     "destination": "Feldberg",
-    "reservationId": "langenwald",
+    "reservationId": "schwarzwaldhorn",
     "status": "Pendiente",
     "plan": [
       "Día de montaña",
@@ -206,9 +217,9 @@
     "id": "day-4",
     "date": "2026-09-22",
     "title": "Ravenna Schlucht + senderismo",
-    "origin": "Naturcamping Langenwald",
+    "origin": "Campingplatz Schwarzwaldhorn",
     "destination": "Ravenna Schlucht",
-    "reservationId": "langenwald",
+    "reservationId": "schwarzwaldhorn",
     "status": "Pendiente",
     "plan": [
       "Visitar Ravenna Schlucht",
@@ -274,9 +285,9 @@
     "id": "day-5",
     "date": "2026-09-23",
     "title": "Alsacia + pueblos + Estrasburgo",
-    "origin": "Naturcamping Langenwald",
+    "origin": "Campingplatz Schwarzwaldhorn",
     "destination": "Alsacia / Estrasburgo",
-    "reservationId": "langenwald",
+    "reservationId": "schwarzwaldhorn",
     "status": "Pendiente",
     "plan": [
       "Cruzar a Francia",
@@ -328,7 +339,7 @@
     "id": "day-6",
     "date": "2026-09-24",
     "title": "Selva Negra → Colmar",
-    "origin": "Naturcamping Langenwald",
+    "origin": "Campingplatz Schwarzwaldhorn",
     "destination": "Colmar",
     "reservationId": "colmar",
     "status": "Pendiente",
@@ -337,7 +348,8 @@
       "Recoger camping y desmontar tienda",
       "Secar la tienda si está húmeda, si es posible",
       "Cargar coche",
-      "Continuar hacia Colmar"
+      "Continuar hacia Colmar",
+      "Check-out de Campingplatz Schwarzwaldhorn"
     ],
     "notes": "Desmontar el camping y continuar hacia Colmar.",
     "checklist": [
@@ -406,13 +418,13 @@
   {
     "id": "day-7",
     "date": "2026-09-25",
-    "title": "Colmar → Berna",
+    "title": "Colmar → Lucerna → Berna",
     "origin": "Colmar",
     "destination": "Berna",
     "reservationId": "berna",
     "status": "Pendiente",
     "plan": [
-      "Plan favorito: pasar el día en Lucerna",
+      "Visitar Lucerna",
       "Dormir en Berna"
     ],
     "notes": "Plan de Lucerna abierto según meteorología, cansancio y tiempo disponible.",

@@ -1,10 +1,10 @@
 {
   "name": "Selva Negra 2026",
-  "startDate": "2026-09-19",
+  "startDate": "2026-09-18",
   "endDate": "2026-09-27",
-  "departureTime": "05:00",
-  "days": 9,
-  "nights": 8,
+  "departureTime": "",
+  "days": 10,
+  "nights": 9,
   "origin": "Barcelona",
   "transport": "Coche propio",
   "types": [

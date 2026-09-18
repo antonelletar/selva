@@ -978,7 +978,7 @@
     "items": [
       {
         "id": "prep-pendientes-1",
-        "label": "Confirmación de Naturcamping Langenwald",
+        "label": "Reserva anterior de Langenwald: revisar cancelación (no confirmada)",
         "group": "Reservas"
       },
       {
@@ -1065,6 +1065,16 @@
         "id": "prep-pendientes-extra1-6",
         "label": "Comprobar todo el material antes de cargar el coche",
         "group": "Camping"
+      },
+      {
+        "id": "prep-matricula-schwarzwaldhorn",
+        "label": "Añadir matrícula del coche a la reserva de Schwarzwaldhorn",
+        "group": "Reservas"
+      },
+      {
+        "id": "prep-hotel-ruta-18",
+        "label": "Confirmar hotel de ruta del 18/09",
+        "group": "Reservas"
       }
     ]
   }
